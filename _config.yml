@@ -67,7 +67,7 @@ author_work_experiences:
               description: Dự án&#58; <br />
                             - Web SVP ( Samsung Viet Nam Portal )<br />
                             - SEV/SEVT RPA (Robotic process automation)<br />
-                            - SMS AGV(Shelf Managerment System - Auto Guided Vehicle )<br />
+                            - SMS AGV(Shelf Management System - Auto Guided Vehicle )<br />
               visibility: false
             - company_name: NEXTTECH GROUP
 #              company_time: 08/2017 - 12/2017
@@ -107,7 +107,7 @@ author_project_details:
                                   - Thiết kế API
                 project_tech:   <p>- JSP <br />
                                    - Java, Struts <br />
-                                   - PostgreSQL
+                                   - PostgresSQL
                 visibility: true 
               - project_title: Hệ thống OPUS
                 project_description: Hệ thống cung cấp chuẩn UI/UX cho các hệ thống của Samsung SDS
@@ -125,7 +125,7 @@ author_project_details:
                 project_dev_cnt: 12
                 project_dev_pos: Quản lý Outsource
                 project_dev_des: <p>- Đưa ra yêu cầu phát triển, công nghệ sử dụng <br />
-                                  - Reivew tài liệu giải pháp, ước lượng nỗ lực <br />
+                                  - Review tài liệu giải pháp, ước lượng nỗ lực <br />
                                   - Quản lý chất lượng code
                                   - Quản lý tiến độ và nghiệm thu <br />
                 project_tech:   <p>- Angular <br />
@@ -154,7 +154,7 @@ author_project_details:
                 visibility: true 
 
               - project_title: Hệ thống Api Gateway
-                project_description: Hệ thống quản lý truy nhập api
+                project_description: Hệ thống quản lý truy cập api
                 project_dev_cnt: 1
                 project_dev_pos: Vận hành hệ thống
                 project_dev_des:  <p>- Quản trị và vận hành hệ thống <br />
@@ -174,7 +174,7 @@ author_project_details:
                 visibility: true 
 
               - project_title: Mediation admin
-                project_description: Quản lý cấu hình của ứng dụng xử lý file cước thoại/sms.
+                project_description: Quản lý cấu hình của ứng dụng xử lý file cước CALL/SMS.
                 project_dev_cnt: 4
                 project_dev_pos: Developer
                 project_dev_des:  <p>- Phát triển chức năng Clone từ app có sẵn <br />
@@ -206,7 +206,7 @@ author_project_details:
                                 - Postgres SQL
                 visibility: true
 
-              - project_title: Shelf Managerment System - Smart Automatic Guided Vehicle ( SMS - AGV )
+              - project_title: Shelf Management System - Smart Automatic Guided Vehicle ( SMS - AGV )
                 project_description: Dự án quản lý robot tự hành
                 project_dev_cnt: 5
                 project_dev_pos: Developer
